@@ -1,0 +1,2 @@
+,base,visibility,dt,timezone,id,name,cod,coord.lon,coord.lat,main.temp,main.feels_like,main.temp_min,main.temp_max,main.pressure,main.humidity,wind.speed,wind.deg,clouds.all,sys.type,sys.id,sys.country,sys.sunrise,sys.sunset,weather.id,weather.main,weather.description,weather.icon
+0,stations,10000,1608518170,-25200,5710035,West Wendover,200,-114.07,40.74,275.15,271.51,275.15,275.15,1025,64,1.61,232,1,1,3994,US,1608476206,1608509497,800,Clear,clear sky,01n
